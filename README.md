@@ -12,6 +12,7 @@ This is a Heart Disease Data Set, collected from the UCI Machine Learning Reposi
 * 2 = atypical angina
 * 3 = non-anginal pain
 * 4 = asymptomatic
+
 **trestbps:** resting blood pressure (in mm Hg on admission to the hospital)
 
 **chol:** serum cholestoral in mg/dl
