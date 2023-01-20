@@ -43,6 +43,6 @@ ca: number of major vessels (0-3) colored by flourosopy
 **hd:** heart disease
 
 ## Objectives:
-Our goal is to apply machine learning algorithms. On this dataset using a Decision Tree algorithm to find out whether a patient has heart disease or not.
+Our goal is to apply machine learning algorithms. On this dataset, we used a Decision Tree algorithm to find out whether a patient has heart disease or not.
 
 **Reference of this dataset: https://archive.ics.uci.edu/ml/datasets/heart+disease**
